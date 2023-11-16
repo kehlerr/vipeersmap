@@ -1,0 +1,3 @@
+aiobotocore==2.7.0
+h2o-wave==1.0.0
+psutil==5.9.6
